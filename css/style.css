@@ -219,6 +219,10 @@ header .header-inner .logo-search .user-alarm span em:before {
   font-style: normal;
   font-size: 11px;
 }
+header .header-inner .logo-search .user-alarm .avatar {
+height: 28px;
+width: 28px; overflow:hidden;
+}
 header .header-inner .logo-search .user-alarm .avatar img {
   height: 28px;
   border-radius: 50%;
