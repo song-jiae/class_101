@@ -186,7 +186,7 @@ header .header-inner .logo-search .login-register-buttons button {
   background-color: transparent;
 }
 header .header-inner .logo-search .login-register-buttons button.btn-register {
-  background-color: #0a7536;
+  background-color: #fff;
   color: #ebebeb;
   border: transparent;
 }
