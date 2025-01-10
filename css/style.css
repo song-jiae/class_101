@@ -98,7 +98,7 @@ header {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #ebebeb;
+  background-color: #fff;
   border-bottom: 1px solid #EEEEEE;
   position: relative;
   z-index: 100;
