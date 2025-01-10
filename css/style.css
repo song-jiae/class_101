@@ -1421,7 +1421,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   gap: 30px;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-content > div {
-  background-color: #ebebeb;
+  background-color: #fff;
   border-radius: 10px;
   -webkit-box-shadow: 0 0 20px rgba(23, 23, 23, 0.05);
           box-shadow: 0 0 20px rgba(23, 23, 23, 0.05);
