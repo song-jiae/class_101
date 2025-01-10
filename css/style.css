@@ -1463,7 +1463,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #ebebeb;
+  background-color: #fff;
   padding: 30px 0;
   position: sticky;
   z-index: 20;
