@@ -190,6 +190,7 @@ header .header-inner .logo-search .login-register-buttons button.btn-register {
   color: #ebebeb;
   border: transparent;
 }
+header .header-inner .logo-search .login-register-buttons button.btn-register .avatar{ width: 20px; border:1px solid red;}
 header .header-inner .logo-search .user-alarm {
   margin-left: auto;
   display: none;
@@ -220,7 +221,7 @@ header .header-inner .logo-search .user-alarm span em:before {
   font-size: 11px;
 }
 header .header-inner .logo-search .user-alarm .avatar {
-height: 28px;
+height: 28px !importnat;
 width: 28px; overflow:hidden;
 }
 header .header-inner .logo-search .user-alarm .avatar img {
