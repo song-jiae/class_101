@@ -190,7 +190,7 @@ header .header-inner .logo-search .login-register-buttons button.btn-register {
   color: #ebebeb;
   border: transparent;
 }
-header .header-inner .logo-search .login-register-buttons button.btn-register .avatar{ width: 20px; border:1px solid red;}
+header .header-inner .logo-search .login-register-buttons button.btn-register .avatar{ width: 35px; border:1px; height: 35px; border-radius:50%; overflow:hidden;}
 header .header-inner .logo-search .user-alarm {
   margin-left: auto;
   display: none;
