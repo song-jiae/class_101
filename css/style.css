@@ -190,8 +190,15 @@ header .header-inner .logo-search .login-register-buttons button.btn-register {
   color: #ebebeb;
   border: transparent;
 }
-header .header-inner .logo-search .login-register-buttons button.btn-register .avatar{ width: 15px; border:1px; height: 15px; border-radius:50%; object-fit:cover; overflow:hidden; display:inline-block;}
-header .header-inner .logo-search .login-register-buttons button.btn-register .avatar img{object-fit:cover; width: 15px; border:1px; height: 15px; }
+header .header-inner .logo-search .login-register-buttons button.btn-register .avatar{    width: 30px;
+    border: 1px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    overflow: hidden;
+    display: inline-block;
+    transform: translateY(9px);}
+header .header-inner .logo-search .login-register-buttons button.btn-register .avatar img{object-fit:cover; width:100%; border:1px; height: 100%; }
 header .header-inner .logo-search .user-alarm {
   margin-left: auto;
   display: none;
